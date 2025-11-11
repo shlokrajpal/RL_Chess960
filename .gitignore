@@ -1,0 +1,13 @@
+__pycache__/
+
+*.log
+*.out
+
+venv/
+.env/
+
+.vscode/
+*.tmp
+
+checkpoints/
+evaluation_results/

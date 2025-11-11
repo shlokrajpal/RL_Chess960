@@ -1,0 +1,20 @@
+==================================================
+Starting Color Training Statistics
+==================================================
+
+Game Distribution by Starting Color:
+  White started: 2500 games
+  Black started: 2500 games
+  Ratio: 1.000
+  Expected ratio: ~1.00 (perfect alternation)
+
+Average Rewards by Starting Color:
+  White-start games: -0.433960 ± 0.839578
+  Black-start games: 0.357859 ± 0.869098
+
+Balance Metrics:
+  Reward difference: 0.791820
+  Balance score: 0.2082
+  (1.0 = perfect balance, 0.0 = maximum bias)
+
+Interpretation:

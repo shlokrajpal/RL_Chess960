@@ -1,0 +1,51 @@
+=== Chess960 RL Agent Example Game ===
+Date: 2025-11-11 18:45:35
+Seed: 42
+
+Initial Position:
+q n b r n b k r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+Q N B R N B K R
+
+Move 1 (White): c2c4
+Move 2 (Black): c7c5
+Move 3 (White): f2f4
+Move 4 (Black): b7b5
+Move 5 (White): h2h4
+Move 6 (Black): f7f6
+Move 7 (White): e1c2
+Move 8 (Black): a8e4
+Move 9 (White): c2d4
+Move 10 (Black): c5d4
+Move 11 (White): b2b4
+Move 12 (Black): e4e6
+Move 13 (White): c1a3
+Move 14 (Black): f6f5
+Move 15 (White): d2d3
+Move 16 (Black): a7a6
+Move 17 (White): a3b2
+Move 18 (Black): b5c4
+Move 19 (White): d1c1
+Move 20 (Black): d7d5
+Move 21 (White): c1e1
+Move 22 (Black): e6d7
+Move 23 (White): h1h3
+Move 24 (Black): d7c7
+Move 25 (White): a2a3
+
+Final Reward: -1.0000
+
+Final Position:
+. n b r n b k r
+. . q . p . p p
+p . . . . . . .
+. . . p . p . .
+. P p p . P . P
+P . . P . . . R
+. B . . P . P .
+Q N . . R B K .
