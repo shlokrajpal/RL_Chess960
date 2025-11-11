@@ -29,7 +29,7 @@ A reinforcement learning project that trains a Deep Q-Network (DQN) agent to pla
 - Detailed performance statistics
 - Win/draw/loss tracking by color
 
-## 📚 Code Documentation
+##  Code Documentation
 
 ### `chess960_env.py`
 
@@ -139,7 +139,7 @@ A reinforcement learning project that trains a Deep Q-Network (DQN) agent to pla
 - Game length statistics
 - Time per game
 
-## 🎓 Training Details
+## Training Details
 
 ### State Representation
 - **Dimensions:** 9×8 (72 features when flattened)
